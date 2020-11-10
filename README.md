@@ -1,6 +1,6 @@
 # Acute_Kidney_Injury_Prediction_In_ICU
 
-This project was part of a research intership at King's College London.
+This project is the result of a research intership at King's College London. \n
 I was part of the Biostatistics & Health Informatics department and work under Daniel Bean supervision.
 The code is not available yet due to ongoing publication.
 The dataset is not available due to privacy policy.
