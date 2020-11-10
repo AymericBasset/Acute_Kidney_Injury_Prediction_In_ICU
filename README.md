@@ -8,3 +8,6 @@
 The dataset used was based on the MIMIC database and composed of 20742 adult patients with more than 100000 features. 
 Our best model is based on XGBoost and has an auroc score of 86.5% 24 hours before the event.</p>
 <p>A second objectif was model explainability and real-time analysis of the preditions.</p>
+
+<p>My report is available for consultation in this repository.</p>
+
