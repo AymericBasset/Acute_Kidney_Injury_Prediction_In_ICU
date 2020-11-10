@@ -5,6 +5,6 @@
 <p>The code is not available yet due to ongoing publication.</p>
 <p>The dataset is not available due to privacy policy.</p>
 <p>The goal was to develop a model with a similar approach as those presented in state of the art papers for this disease and to enhance it using nlp. 
-The dataset used was based on the MIMIC database and composed of 20742 adult patients with more than 1400 features. 
+The dataset used was based on the MIMIC database and composed of 20742 adult patients with more than 100000 features. 
 Our best model is based on XGBoost and has an auroc score of 86.5% 24 hours before the event.</p>
 <p>A second objectif was model explainability and real-time analysis of the preditions.</p>
