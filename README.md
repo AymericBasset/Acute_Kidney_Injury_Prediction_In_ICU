@@ -1,6 +1,6 @@
 # Acute Kidney Injury Prediction In ICU
 
-<p>This project is the result of a research intership at King's College London.</p>
+<p>This project is the result of a research internship at King's College London.</p>
 <p>I was part of the Biostatistics & Health Informatics department and work under Daniel Bean supervision.</p>
 <p>The code is not available yet due to ongoing publication.</p>
 <p>The dataset is not available due to privacy policy.</p>
